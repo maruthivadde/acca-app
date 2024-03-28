@@ -1,0 +1,27 @@
+.placement-container {
+  height: 400px;
+  width: 100%;
+  background-color: rgb(245, 236, 224);
+  margin-top: 40px;
+}
+.placement-container-heading {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(7, 7, 87);
+  padding-top: 20px;
+}
+.placement-card-container {
+  padding-left: 40px;
+  padding-top: 40px;
+}
+.placement-card-heading {
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(7, 7, 87);
+}
+.placement-card-paragraph {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(7, 7, 87);
+}
